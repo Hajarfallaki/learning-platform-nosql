@@ -1,3 +1,13 @@
-# Compléter ici !!!!???
+# Ignorer le dossier node_modules
+node_modules/
 
-node_modules
+# Ignorer le fichier d'environnement
+.env
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de cache de npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
